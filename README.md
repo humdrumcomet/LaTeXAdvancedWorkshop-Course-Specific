@@ -22,6 +22,6 @@ The `plots.tex` file can be directly accessed from [here](https://github.com/hum
       A quick taste of where else you could take some of these ideas
     - [Course Specific Material](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop-Course-Specific) <sup>(you are here)</sup>  
       Some useful course specific material for ELEC
-3. [LaTeX in Different Environments]()  
+3. [LaTeX in Different Environments](https://github.com/humdrumcomet/LaTeXinDifferentEnvironments)  
 4. [Fully Reproducible Documents, Literate Programming, and Experimental LaTeX]()  
 
